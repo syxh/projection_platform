@@ -1,0 +1,13 @@
+name: alternative_scenarios_projection_v3
+title: alternative_scenarios_projection_v3
+username:
+account: sshsphdemos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2869154
+bundleId: 3665607
+url: https://sshsphdemos.shinyapps.io/alternative_scenarios_projection_v3/
+when: 1600945058.07308
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: scenarios_old.csv
